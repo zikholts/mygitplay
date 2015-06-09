@@ -1,0 +1,15 @@
+What data type?
+
+7.8 -------------number
+"888" ------------string
+67 < -11 ---------relational, answer is in Boolean
+NaN ------------Not a Number----
+56000 * 34 ----------arithmetic:operational
+
+Right or Wrong Variable Name
+year--------------right
+*64------------wrong
+_%earn-------right
+value--------right
+salary--------right
+do------wrong
